@@ -1,0 +1,213 @@
+[
+    {
+        "id": 101,
+        "type": "Deluxe",
+        "price": 4000.00,
+        "status": "available",
+        "imgUrl":" https://i.pinimg.com/564x/96/b3/55/96b35558e25a803cfdf02706b5e9cf7c.jpg"
+    },
+    {
+        "id": 102,
+        "type": "Single",
+        "price": 2000.00,
+        "status": "available",
+        "imgUrl": "https://i.pinimg.com/564x/a7/06/98/a70698ee344141bc0fbe218ea7b4022e.jpg"
+    },
+    {
+        "id": 103,
+        "type": "Single",
+        "price": 4000.00,
+        "status": "available",
+        "imgUrl": "https://i.pinimg.com/564x/2b/60/94/2b60948eb31da6127a7fd365e1a049ac.jpg"
+    },
+    {
+        "id": 104,
+        "type": "Deluxe",
+        "price": 10000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/236x/68/b4/1c/68b41c7609ed1c25d72c471533b7108b.jpg"
+    },
+    {
+        "id": 105,
+        "type": "Deluxe",
+        "price": 15000.00,
+        "status": "unvailbale",
+        "imgUrl": "https://i.pinimg.com/236x/e9/67/08/e967088fb1a010fdbfcff53aaf212b44.jpg"
+    },
+    {
+        "id": 106,
+        "type": "Master bedroom",
+        "price": 10000.00,
+        "status": "unvailable",
+        "imgUrl":"https://i.pinimg.com/474x/c5/64/1a/c5641a2328128234a1ba6de3aaac3209.jpg"
+    },
+    {
+        "id": 107,
+        "type": "Master bedroom",
+        "price": 15000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/236x/af/37/83/af3783a186b29116780d05978ded9841.jpg"
+    },
+    {
+      "id": 108,
+        "type": "master bedroom",
+        "price": 20000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/236x/fd/7e/2d/fd7e2db13bb559431db5799a697b367b.jpg"
+    },
+    {
+        "id": 109,
+        "type": "single",
+        "price": 8000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/236x/d9/2d/5d/d92d5d36170d3168a6e09f3292b27eb4.jpg"
+
+    },
+    {
+        "id": 110,
+        "type": "Deluxe",
+        "price": 8000.00,
+        "status": "unvailable",
+        "imgUrl":"https://i.pinimg.com/236x/1f/f8/47/1ff84728f5945c2f257c874b824434e3.jpg"
+    },
+    {
+        "id": 111,
+        "type": "single",
+        "price": 9000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/92/b2/76/92b27657bb6a044f9e0eb0295d9a0b17.jpg"
+    },
+    {
+        "id": 112,
+        "type": "single",
+        "price": 8000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/5b/30/18/5b301869927dca50471c1137cc445a2c.jpg"
+    },
+    {
+        "id": 113,
+        "type": "single",
+        "price": 8000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/5b/30/18/5b301869927dca50471c1137cc445a2c.jpg"
+    },
+    {
+        "id": 114,
+        "type": "Deluxe",
+        "price": 12000.00,
+        "status": "unvailable",
+        "imgUrl":"https://i.pinimg.com/564x/fd/c2/89/fdc2898a75e334aadb80feeb252633dd.jpg"
+    },
+    {
+        "id": 115,
+        "type": "Deluxe",
+        "price": 14000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/21/60/9c/21609cfda6ee6f208aa436c5e0b180e5.jpg"
+    },
+    {
+        "id": 116,
+        "type": "Deluxe",
+        "price": 15000.00,
+        "status": "unvailable",
+        "imgUrl":"https://i.pinimg.com/564x/80/1a/87/801a8706d5bfe2a8e940427c8bd12f20.jpg"
+    },
+    {
+        "id": 117,
+        "type": "single",
+        "price": 15000.00,
+        "status": "unvailable",
+        "imgUrl":"https://i.pinimg.com/564x/2b/f4/b0/2bf4b0adb200ae93b6448e7ea4b2401f.jpg"
+    },
+    {
+        "id": 118,
+        "type": "single",
+        "price": 17000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/df/0d/f4/df0df483ca67b1e1a99e29df4ed97881.jpg"
+    },
+    {
+        "id": 119,
+        "type": "single",
+        "price": 16000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/2c/7a/79/2c7a79c48f0751dfe63deda4e15393c9.jpg"
+    },
+    {
+        "id": 120,
+        "type": "single",
+        "price": 18000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/8d/1b/fe/8d1bfe536ede86327c42a538f9586173.jpg"
+    },
+    {
+        "id": 121,
+        "type": "single",
+        "price": 19000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/af/72/e2/af72e2247f87db361708365eaefa5bfd.jpg"
+    },
+    {
+        "id": 122,
+        "type": "single",
+        "price": 1000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/5a/48/3d/5a483d8c14c6dc8a41b754e45ac104dc.jpg"
+    },
+    {
+        "id": 123,
+        "type": "single",
+        "price": 15000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/bd/7d/92/bd7d92fc2e85cbb3d14191b86c7022cd.jpg"
+    },
+    {
+        "id": 124,
+        "type": "single",
+        "price": 17000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/7b/83/69/7b83699912a11029e9170616f24031a8.jpg"
+    },
+    {
+        "id": 125,
+        "type": "single",
+        "price": 19000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/cd/ac/03/cdac03e818352a659de1261e06ebf8e0.jpg"
+    },
+    {
+        "id": 126,
+        "type": "single",
+        "price": 13000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/fb/05/ea/fb05ea24d74c09292929c42f38267681.jpg"
+    },
+    {
+        "id": 127,
+        "type": "single",
+        "price": 9000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/736x/11/43/10/114310130e2cbc28663cfeae7f185118.jpg"
+    },
+    {
+        "id": 128,
+        "type": "single",
+        "price": 14000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/38/d3/78/38d378a3826ff9d0e571bba49471f2a6.jpg"
+    },
+    {
+        "id": 129,
+        "type": "single",
+        "price": 14000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/d6/36/96/d63696b1acac77957bc8bc3d7bc4c760.jpg"
+    },
+    {
+        "id": 130,
+        "type": "single",
+        "price": 15000.00,
+        "status": "available",
+        "imgUrl":"https://i.pinimg.com/564x/1e/da/cd/1edacddf07d2af13e886b1a85e2466fb.jpg"
+    }
+]

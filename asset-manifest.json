@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/The-Continental/static/css/main.f4e284a5.css",
+    "main.js": "/The-Continental/static/js/main.5a82cc77.js",
+    "static/js/453.00aaf746.chunk.js": "/The-Continental/static/js/453.00aaf746.chunk.js",
+    "index.html": "/The-Continental/index.html",
+    "main.f4e284a5.css.map": "/The-Continental/static/css/main.f4e284a5.css.map",
+    "main.5a82cc77.js.map": "/The-Continental/static/js/main.5a82cc77.js.map",
+    "453.00aaf746.chunk.js.map": "/The-Continental/static/js/453.00aaf746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4e284a5.css",
+    "static/js/main.5a82cc77.js"
+  ]
+}
