@@ -172,7 +172,7 @@
         "id": 125,
         "type": "single",
         "price": 19000.00,
-        "status": "available",
+        "status": "unavailable",
         "imgUrl":"https://i.pinimg.com/564x/cd/ac/03/cdac03e818352a659de1261e06ebf8e0.jpg"
     },
     {
@@ -186,7 +186,7 @@
         "id": 127,
         "type": "single",
         "price": 9000.00,
-        "status": "available",
+        "status": "unavailable",
         "imgUrl":"https://i.pinimg.com/736x/11/43/10/114310130e2cbc28663cfeae7f185118.jpg"
     },
     {
@@ -200,7 +200,7 @@
         "id": 129,
         "type": "single",
         "price": 14000.00,
-        "status": "available",
+        "status": "unavailable",
         "imgUrl":"https://i.pinimg.com/564x/d6/36/96/d63696b1acac77957bc8bc3d7bc4c760.jpg"
     },
     {
@@ -209,5 +209,19 @@
         "price": 15000.00,
         "status": "available",
         "imgUrl":"https://i.pinimg.com/564x/1e/da/cd/1edacddf07d2af13e886b1a85e2466fb.jpg"
+    },
+    {
+        "id": 131,
+        "type": "Deluxe",
+        "price": 4000.00,
+        "status": "unavailable",
+        "imgUrl":" https://i.pinimg.com/564x/96/b3/55/96b35558e25a803cfdf02706b5e9cf7c.jpg"
+    },
+    {
+        "id": 132,
+        "type": "Single",
+        "price": 2000.00,
+        "status": "unavailable",
+        "imgUrl": "https://i.pinimg.com/564x/a7/06/98/a70698ee344141bc0fbe218ea7b4022e.jpg"
     }
 ]
