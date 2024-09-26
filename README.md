@@ -81,3 +81,12 @@ To run the project locally:
 - `/server`: Backend server with Node.js and Express.
 - `/database`: MySQL database schema and setup scripts.
 
+
+### Preview 1 Home page
+![Link Cards Preview](images/p1.png)
+### Preview 2 Register
+![Link Cards Preview](images/p2.png)
+### Preview 3 Login
+![Link Cards Preview](images/p3.png)
+### Preview 1 Room Booking
+![Link Cards Preview](images/p4.png)
