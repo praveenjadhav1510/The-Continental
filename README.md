@@ -42,13 +42,13 @@ To run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/praveenjadhav1510/the-continental.git
+   git clone https://github.com/praveenjadhav1510/The-Continental.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd the-continental
+   cd The-Continental
    npm install
    ```
 
